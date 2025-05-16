@@ -4,4 +4,4 @@
 
 ## 📄 题目列表
 
-1. [A. Object Identification (1400)](./cf2066A-object-identification-1400/)
+1. [A. Object Identification (1400)](./2066A-object-identification-1400/)
