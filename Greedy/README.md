@@ -4,4 +4,4 @@
 
 ## 📄 题目列表
 
-1. [C. Neo's Escape (1500)](./cf2108C-Neo's-Escape-1500/)
+1. [C. Neo's Escape (1500)](./2108C-Neo's-Escape-1500/)
